@@ -1418,7 +1418,7 @@ dump the ROM yourself. We do not condone piracy.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-METHOD 1: Nintendo Wii (Homebrew) — RECOMMENDED
+METHOD 1: Wii (Homebrew) — RECOMMENDED
 This works for OoT, MM, and SM64 Virtual Console.
 
 1. Install the Homebrew Channel on a modded Wii
@@ -1445,7 +1445,7 @@ a .tgc archive in the filesystem.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-METHOD 3: Nintendo 64 Cartridge (USB dumper)
+METHOD 3: N64 Cartridge (USB dumper)
 
 1. Buy an N64 cartridge reader (e.g. Joey Jr,
    Super UFO Pro 8, or Retrode 2)

@@ -1,6 +1,6 @@
 # Decomp Depot
 
-A desktop-friendly installer, updater, and mod manager for **decompilation ports** of classic Nintendo games. Designed for the Steam Deck but works on any Linux distro.
+A desktop-friendly installer, updater, and mod manager for **decompilation ports** of classic games. Designed for the Steam Deck but works on any Linux distro.
 
 ## Supported Ports
 
