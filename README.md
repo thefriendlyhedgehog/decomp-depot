@@ -55,7 +55,7 @@ curl -L https://raw.githubusercontent.com/thefriendlyhedgehog/decomp-depot/main/
 Or clone and run:
 ```bash
 git clone https://github.com/thefriendlyhedgehog/decomp-depot.git
-cd ship-of-harkinian-updater
+cd decomp-depot
 bash decomp-depot.sh
 ```
 
