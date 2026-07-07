@@ -43,18 +43,18 @@ A desktop-friendly installer, updater, and mod manager for **decompilation ports
 ## Quick Start
 
 ### Steam Deck (Desktop Mode)
-1. Download [`decomp-depot.desktop`](https://raw.githubusercontent.com/thefriendlyhedgehog/ship-of-harkinian-updater/main/decomp-depot.desktop) (right-click → Save Link As...)
+1. Download [`decomp-depot.desktop`](https://raw.githubusercontent.com/thefriendlyhedgehog/decomp-depot/main/decomp-depot.desktop) (right-click → Save Link As...)
 2. Place it in `~/Desktop/` or `~/.local/share/applications/`
 3. Double-click to launch
 
 ### Any Linux distro
 ```bash
-curl -L https://raw.githubusercontent.com/thefriendlyhedgehog/ship-of-harkinian-updater/main/decomp-depot.sh | sh
+curl -L https://raw.githubusercontent.com/thefriendlyhedgehog/decomp-depot/main/decomp-depot.sh | sh
 ```
 
 Or clone and run:
 ```bash
-git clone https://github.com/thefriendlyhedgehog/ship-of-harkinian-updater.git
+git clone https://github.com/thefriendlyhedgehog/decomp-depot.git
 cd ship-of-harkinian-updater
 bash decomp-depot.sh
 ```

@@ -1,6 +1,6 @@
 #!/usr/bin/env xdg-open
 [Desktop Entry]
-Exec=curl -L https://raw.githubusercontent.com/thefriendlyhedgehog/ship-of-harkinian-updater/main/decomp-depot.sh | sh
+Exec=curl -L https://raw.githubusercontent.com/thefriendlyhedgehog/decomp-depot/main/decomp-depot.sh | sh
 Icon=steamdeck-gaming-return
 Name=Decomp Depot
 StartupNotify=false
